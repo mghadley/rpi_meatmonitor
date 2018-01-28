@@ -1,0 +1,1 @@
+{"chamber": {"current_temp": 111.2, "current_humidity": 38.0}}

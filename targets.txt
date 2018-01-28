@@ -1,1 +1,1 @@
-{"target_humidity": 20.0, "target_temp": 160.0}
+{"target_humidity": 30.0, "target_temp": 160.0}
